@@ -8,4 +8,24 @@ Customer segmentation refers to the practice of dividing a company's customer ba
 
 The different types of customers have been segmented using K-MEANS CLUSTERING and the clusters are divided into 5 types:
 
+a. High Income, High Spending Score 
+
+
+b. High Income, Low Spending Score
+
+
+c. Average Income, Average Spending Score
+
+
+d. Low Income, High Spending Score
+
+
+e. Low Income, Low Spending Score
+
+The position of the clusters and their respective types are mentioned in the code file.
+
+# Observations:
+
+
+
 
